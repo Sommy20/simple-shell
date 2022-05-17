@@ -40,4 +40,4 @@ Our shell has support for
 
 ### Credits
 
-Codes are written by Idayat Abdulkareem () and Chisom Chieke (https://github.comSommy20)
+Codes are written by Idayat Abdulkareem (idayatolaide0@gmail.com) and Chisom Chieke (https://github.comSommy20)
